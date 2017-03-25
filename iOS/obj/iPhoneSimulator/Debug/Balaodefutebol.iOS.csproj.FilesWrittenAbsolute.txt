@@ -1,0 +1,17 @@
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Balaodefutebol.iOS.exe.mdb
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Balaodefutebol.iOS.exe
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/obj/iPhoneSimulator/Debug/Balaodefutebol.iOS.exe
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/obj/iPhoneSimulator/Debug/Balaodefutebol.iOS.exe.mdb
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Balaodefutebol.dll
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Balaodefutebol.dll.mdb
+/Users/jhonatarodrigues/Desktop/apps/Balaodefutebol/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
